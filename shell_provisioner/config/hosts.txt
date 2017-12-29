@@ -1,0 +1,5 @@
+# Add a line to your hosts file.
+# This must match the values for GUEST_IP and APP_DOMAIN set in run.sh
+192.168.33.60 HOSTNAME.dev
+192.168.33.60 phpmyadmin.HOSTNAME.dev
+192.168.33.60 mails.HOSTNAME.dev
