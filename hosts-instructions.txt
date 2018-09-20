@@ -1,0 +1,5 @@
+# Add a line to your hosts file.
+# This must match the values for GUEST_IP and APP_DOMAIN set in run.sh
+192.168.33.60 HOSTNAME.dev.blend.be
+192.168.33.60 phpmyadmin.HOSTNAME.dev.blend.be
+192.168.33.60 mails.HOSTNAME.dev.blend.be
